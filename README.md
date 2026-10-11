@@ -1,6 +1,6 @@
 # Control de Gastos
 
-API REST para registrar y categorizar gastos personales, con un resumen mensual.
+API REST para registrar y categorizar gastos, con un resumen mensual.
 
 ## Tecnologías
 
@@ -13,6 +13,18 @@ API REST para registrar y categorizar gastos personales, con un resumen mensual.
 ## Estado
 
 En desarrollo. Proyecto de práctica.
+
+## Alcance
+**La primera versión permite:**
+- Crear, listar, editar y borrar gastos.
+- Crear y administrar categorías.
+- Ver el total del mes y el total por categoría.
+
+**La primera versión NO incluye:**
+- Login ni usuarios.
+- Múltiples monedas.
+- Gráficos.
+- Exportar a Excel.
 
 ## Autora
 
