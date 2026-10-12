@@ -26,6 +26,10 @@ En desarrollo. Proyecto de práctica.
 - Gráficos.
 - Exportar a Excel.
 
+
+## Modelo de datos
+
+![Modelo de datos](docs/modelo-datos.png)
 ## Autora
 
 Elisa Guaspari
