@@ -1,4 +1,4 @@
-package com.eli920.controlgastos;
+package com.eli920.controlgastos.model;
 
 import jakarta.persistence.*;
 
