@@ -15,11 +15,5 @@ public class ControlGastosApplication {
     }
 
 
-    @Bean
-    CommandLineRunner probarRepository(CategoriaRepository repo) {
-        return args -> {
-            repo.save(new Categoria("Comida"));
-            System.out.println("Categorías guardadas: " + repo.findAll().size());
-        };
-    }
+   
 }
